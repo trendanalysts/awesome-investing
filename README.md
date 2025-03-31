@@ -181,6 +181,7 @@ Created by: The Islamic Research and Training Institute
 * [Screener](https://www.screener.in/)
 * [ticker](https://github.com/achannarasappa/ticker) - Terminal stock ticker with live updates and position tracking
 * [Tickertape](https://www.tickertape.in/)
+* [Bullishstocks.in](https://bullishstocks.in/)
 * [Trading View](https://in.tradingview.com/)
 * [Quandl](https://www.quandl.com/)
 * [Quantopian](https://www.quantopian.com/)
